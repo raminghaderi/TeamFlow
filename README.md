@@ -2,7 +2,7 @@
 
 Team Members:
 
-Ramin Ghaderi
-Nashib Ul Khamash
-Lavinia Vaduva
+Ramin Ghaderi,
+Nashib Ul Khamash,
+Lavinia Vaduva,
 Glazione Rocha
