@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FrontWhite" size="0.150000 0.200025" />
+    <ImageTarget name="FrontBlackShoe" size="0.150000 0.200100" />
+    <ImageTarget name="queen-of-spades" size="0.200000 0.311419" />
+  </Tracking>
+</QCARConfig>
