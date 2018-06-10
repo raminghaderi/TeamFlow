@@ -22,9 +22,6 @@
 #s-e06dd781-fb2b-45a9-a3bd-5095c43bed69 #s-Image_1 {
   -ms-transform: rotate(0.0deg);
 }
-#s-e06dd781-fb2b-45a9-a3bd-5095c43bed69 #s-Image_2 {
-  -ms-transform: rotate(0.0deg);
-}
 #s-e06dd781-fb2b-45a9-a3bd-5095c43bed69 #s-Text_1 {
   -ms-transform: rotate(0.0deg);
 }
@@ -51,6 +48,12 @@
   padding-left: 7px;
   height: 43px;
   width: 118px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-e06dd781-fb2b-45a9-a3bd-5095c43bed69 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e06dd781-fb2b-45a9-a3bd-5095c43bed69 #s-Image_3 {
   -ms-transform: rotate(0.0deg);
 }
 .devMobile #jim-container .ui-page {
