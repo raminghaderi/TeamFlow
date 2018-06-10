@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="7px" viewBox="0 0 8 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Controls / Pagination Dots / _Resources / Page Dot - On Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iPhone-X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-184.000000, -695.000000)" opacity="0.32">
+        <g id="Center" transform="translate(168.937500, 695.000000)" fill="#FFFFFF">
+            <g id="UI-Controls-/-Page-Controls-/-Dot-Black" transform="translate(16.000000, 0.000000)">
+                <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

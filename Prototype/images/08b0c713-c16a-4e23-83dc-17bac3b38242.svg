@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="94px" viewBox="0 0 355 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iPhone-X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-10.000000, -708.000000)" fill-opacity="0.2">
+        <g id="Dock" transform="translate(10.000000, 708.000000)" fill="#FFFFFF">
+            <path d="M31,-3.55314736e-15 L324,-7.10542736e-15 C341.120827,-1.0250481e-14 355,13.8791728 355,31 C355,36.3333333 355,41.6666667 355,47 C355,52.3333333 355,57.6666667 355,63 L355,63 C355,80.1208272 341.120827,94 324,94 L31,94 C13.8791728,94 2.09669663e-15,80.1208272 0,63 L0,47 L-7.10542736e-15,31 C-9.20212399e-15,13.8791728 13.8791728,-3.9603737e-15 31,-7.10542736e-15 Z" id="Background"></path>
+        </g>
+    </g>
+</svg>
